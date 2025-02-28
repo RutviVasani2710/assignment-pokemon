@@ -8,6 +8,3 @@ after run project : npm run dev
 
 after that please browse localhost:3000
 
-also i added this code in vercel you can check this also
-
-this is live url: 
